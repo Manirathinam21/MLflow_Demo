@@ -8,3 +8,5 @@ mlflow server \
 --default-artifact-root ./artifacts \
 --host 127.0.0.1 -p 1234
 
+git init
+[do the "first commit"-- public repository]
